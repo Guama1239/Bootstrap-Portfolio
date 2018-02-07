@@ -121,6 +121,12 @@ html {
   background-color: #fff;
 }
 
+.project-image {
+    width: 100%;
+    position: relative;
+    border: 1px solid #4aaaa5;
+}
+
 .connect-with-me-header {
   /* Positioning */
   margin-bottom: 15px;
